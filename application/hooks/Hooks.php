@@ -28,7 +28,7 @@ class Hooks {
 
 		// Define the pattern for a word that starts with a capital letter. The
 		// capital letter must not be preceded by anything other than a non-word
-		// character (e.g. punctiation or whitespace), and is followed by zero
+		// character (e.g. punctuation or whitespace), and is followed by zero
 		// or more word characters.
 		// Note: This pattern will not work correctly if HTML codes for special
 		// characters (e.g. accents) are used. A way more complex pattern would
